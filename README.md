@@ -1,3 +1,4 @@
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJ4OXhldG05aGtnd3I0ZHNrbm5rZ2FqczJwcmltejB5YnVvdjk4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yK3jTLF7xtln0MSHHn/giphy.gif"/>
+
+
