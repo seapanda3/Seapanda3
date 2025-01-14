@@ -1,1 +1,1 @@
-<a>https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzg3bjc4bGJ4Y2JjbDJremdob25yeHRra2hmNXc4YnF5d21ydG96eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif</a>
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzg3bjc4bGJ4Y2JjbDJremdob25yeHRra2hmNXc4YnF5d21ydG96eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif
