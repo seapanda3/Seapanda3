@@ -1,1 +1,2 @@
-<link rel"https://alephh.bearblog.dev/">Check out my blog</link>
+## My Blog  
+Check out my blog: [Apleh's Blog](https://alephh.bearblog.dev/)
